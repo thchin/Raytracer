@@ -20,4 +20,14 @@ Object can have 4 differents materials: diffuse, reflective, refractive and tran
 We can generate a perlin noise with marble or wood type, transform it into a bump map and apply it to a sphere.
 For texture we can currently only apply it to a sphere.
 
+4 objects : Plane, cylinder, cone, sphere
+
 ![alt text](https://github.com/thchin/Raytracer/blob/master/screenshots/screen1.bmp)
+
+Bump mapped sphere with bump map generated from perlin noise
+
+![alt text](https://github.com/thchin/Raytracer/blob/master/screenshots/screen2.bmp)
+
+Triangle and cylinder
+
+![alt text](https://github.com/thchin/Raytracer/blob/master/screenshots/screen3.bmp)
